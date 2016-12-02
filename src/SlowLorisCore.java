@@ -1,4 +1,6 @@
-
+// Written By Kevin Ali
+// Fall2016 CS 585 Cal poly pomona
+// Professor Yu Sun
 import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
